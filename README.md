@@ -1,1 +1,1 @@
-# Connect-Four-Project
+# Tic Tac Toe Project
